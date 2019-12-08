@@ -126,6 +126,8 @@
 		      String password = "sd100301";  
     
   # 五、运行结果
+
+![](https://github.com/DING378/Homework1/blob/master/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191207163414.jpg)
   
   # 六、实验心得 
   	
