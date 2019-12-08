@@ -131,11 +131,17 @@
   ![](https://github.com/DING378/Homework1/blob/master/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191207163423.jpg) 
   ![](https://github.com/DING378/Homework1/blob/master/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191207163426.jpg) 
   ![](https://github.com/DING378/Homework1/blob/master/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191207163431.jpg) 
-  ![](https://github.com/DING378/Homework1/blob/master/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191207163434.jpg)
-  # 六、实验心得 
+  ![](https://github.com/DING378/Homework1/blob/master/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191207163434.jpg) 
+  
+  # 六、实验心得
+  本次实验开始的注册登录以及选课都是上次实验内容，但是加了写入和显示已经选好课程，自己写有点难度，最后在网上查看了下，还是选择用数据库的方式来实现，用的是SQLServer数据库。由于没有系统学习过数据库相关知识，所以写的时候参考别人写的东西，这次试验也让我学习和实践了数据库的相关知识。以后还是会多敲代码，多多练习。
+  
   	
 	
 	
+	
+	
+	 
 	
 	
 	
